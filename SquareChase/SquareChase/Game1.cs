@@ -23,7 +23,7 @@ namespace SquareChase
         Rectangle currentSquare;
         int playerScore = 0;
         float timeRemaining = 0.0f;
-        const float TimePerSquare = 0.75f;
+        float TimePerSquare = 0.75f;
         Color[] colors = new Color[3] { Color.Red, Color.Green,
             Color.Blue };
         public Game1()
@@ -91,6 +91,8 @@ namespace SquareChase
             if ((mouse.LeftButton == ButtonState.Pressed) &&
              (currentSquare.Contains(mouse.X, mouse.Y)))
             {
+                // squareTexture == squareTexture - 10 ???
+                TimePerSquare = TimePerSquare - 0.05f;
                 playerScore++;
                 timeRemaining = 0.0f;
             }

@@ -8,7 +8,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>c:\users\eahscs\documents\visual studio 2015\Projects\SquareChase\SquareChase\SquareChase\bin\x86\Debug\Content\SQUARE.xnb</Output>
-      <Time>2017-03-17T10:58:08.4080793-04:00</Time>
+      <Time>2017-03-20T11:11:07.3675008-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -17,10 +17,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>c:\users\eahscs\documents\visual studio 2015\Projects\SquareChase\SquareChase\SquareChaseContent\</RootDirectory>
-      <LoggerRootDirectory>c:\users\eahscs\documents\visual studio 2015\Projects\SquareChase\SquareChase\SquareChase\</LoggerRootDirectory>
-      <IntermediateDirectory>c:\users\eahscs\documents\visual studio 2015\Projects\SquareChase\SquareChase\SquareChase\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>c:\users\eahscs\documents\visual studio 2015\Projects\SquareChase\SquareChase\SquareChase\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\eahscs\Documents\Visual Studio 2015\Projects\SquareChase\SquareChase\SquareChaseContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\eahscs\Documents\Visual Studio 2015\Projects\SquareChase\SquareChase\SquareChase\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\eahscs\Documents\Visual Studio 2015\Projects\SquareChase\SquareChase\SquareChase\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\eahscs\Documents\Visual Studio 2015\Projects\SquareChase\SquareChase\SquareChase\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
